@@ -1,3 +1,5 @@
 AutoTest.java
 PersonTest.java
 StudentTest.java
+*.class
+*.ctxt

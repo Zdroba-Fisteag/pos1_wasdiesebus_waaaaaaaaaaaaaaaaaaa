@@ -26,7 +26,7 @@ public class AutoTest
     
     @Test
     public void TestGesamtGewichtAuto(){
-        try {
+    try {
         Auto BMW = new Auto("BMW", 3000);
         Person ferdi = new Person("Ferdinand", true, 181, 200); //Fahrer
         BMW.einsteigen(ferdi);
